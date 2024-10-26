@@ -1,6 +1,6 @@
 export default function App() {
   return (
-    //hallo 
+    //hallo
     <section className="flex flex-col lg:flex-row">
       <div className="flex basis-1/2">
         <img
